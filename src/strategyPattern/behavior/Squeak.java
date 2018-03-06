@@ -1,6 +1,4 @@
-package strategyPattern.studyDemo.behavior;
-
-import strategyPattern.studyDemo.behavior.QuackBehavior;
+package strategyPattern.behavior;
 
 /**
  * Created by KEY on 2018/3/4.

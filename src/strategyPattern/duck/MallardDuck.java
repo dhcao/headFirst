@@ -1,8 +1,7 @@
-package strategyPattern.studyDemo.duck;
+package strategyPattern.duck;
 
-import strategyPattern.studyDemo.behavior.FlyWithNothing;
-import strategyPattern.studyDemo.behavior.FlyWithWings;
-import strategyPattern.studyDemo.behavior.Quack;
+import strategyPattern.behavior.FlyWithNothing;
+import strategyPattern.behavior.Quack;
 
 /**
  * Created by KEY on 2018/3/4.
